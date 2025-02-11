@@ -1,0 +1,68 @@
+# ========================
+# Ignorar pastas de build e dependências
+# ========================
+bin/
+obj/
+out/
+packages/
+.vscode/
+.idea/
+*.vs/
+*.Rider/
+
+# ========================
+# Ignorar arquivos de configuração locais do usuário
+# ========================
+*.user
+*.suo
+*.csproj.user
+*.cache
+.project.lock.json
+
+# ========================
+# Ignorar logs e arquivos temporários
+# ========================
+*.log
+*.tmp
+*.lock
+.DS_Store
+
+# ========================
+# Ignorar simulações internas do Q#
+# ========================
+Simulation/
+*.sim.cs
+*.sim.qs
+*.sim/
+
+# ========================
+# Ignorar arquivos de banco de dados locais e temporários
+# ========================
+*.db
+*.db-shm
+*.db-wal
+
+# ========================
+# Ignorar artefatos gerados pelo .NET
+# ========================
+*.obj
+*.exe
+*.dll
+*.pdb
+*.cache/
+*.pidb
+*.sln.cache
+
+# ========================
+# Ignorar configurações locais do Visual Studio Code
+# ========================
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# ========================
+# Ignorar dependências do Python (caso use scripts auxiliares)
+# ========================
+__pycache__/
+*.pyc
+*.pyo
