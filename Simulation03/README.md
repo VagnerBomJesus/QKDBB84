@@ -71,17 +71,6 @@ operation Main() : Unit {
 
 ---
 
-## 🤝 Contribuições
-
-Aceitamos contribuições! Para sugerir melhorias ou relatar problemas:
-
-1. Criar uma **Issue**
-2. Fazer um **Fork** do repositório
-3. Criar um **Branch** para a tua contribuição
-4. Enviar um **Pull Request**
-
----
-
 ## 📜 Licença
 
 Este projeto é distribuído sob a **MIT License**. 📄
